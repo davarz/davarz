@@ -11,6 +11,8 @@ just love ![alt text](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor
 
 i can do coding, vibecode, testing, etc.
 
+currently still learning on DevOps and FullStack Tech (anything to be can learning)
+
 btw i am teacher at Vocational School (hehe)
 
 
