@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080808,50:101010,100:0a0a0a&text=Dava%20AR&fontSize=52&fontColor=C8FF00&animation=twinkling&fontAlignY=35&desc=Backend%20Dev%2C%20Web%20Dev%2C%20and%20can%20be%20ur%20Teacher.&descSize=18&descAlignY=55&descColor=FFFFFF&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080808,50:101010,100:0a0a0a&text=davar_&fontSize=52&fontColor=C8FF00&animation=twinkling&fontAlignY=35&desc=Backend%20Dev%2C%20Web%20Dev%2C%20and%20can%20be%20ur%20Teacher.&descSize=18&descAlignY=55&descColor=FFFFFF&textBg=false"/>
 
 <a href="https://komarev.com/ghpvc/?username=davarz">
   <img src="https://komarev.com/ghpvc/?username=davarz&label=Profile%20views&color=C8FF00&style=for-the-badge" alt="davarz's profile views" />
