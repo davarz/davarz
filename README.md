@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080808,50:101010,100:0a0a0a&text=davar_&fontSize=52&fontColor=C8FF00&animation=twinkling&fontAlignY=35&desc=Backend%20Dev%2C%20Web%20Dev%2C%20and%20can%20be%20ur%20Teacher.&descSize=18&descAlignY=55&descColor=FFFFFF&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0514,50:150029,100:0A0514&text=Dava%20AR&fontSize=52&fontColor=C77DFF&animation=twinkling&fontAlignY=35&desc=Backend%20Dev%2C%20Web%20Dev%2C%20and%20can%20be%20ur%20Teacher.&descSize=18&descAlignY=55&descColor=FFFFFF&textBg=false"/>
 
 <a href="https://komarev.com/ghpvc/?username=davarz">
-  <img src="https://komarev.com/ghpvc/?username=davarz&label=Profile%20views&color=C8FF00&style=for-the-badge" alt="davarz's profile views" />
+  <img src="https://komarev.com/ghpvc/?username=davarz&label=Profile%20views&color=9D4EDD&style=for-the-badge" alt="davarz's profile views" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C8FF00&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD&height=3" width="100%"/>
 
 </div>
 
@@ -16,59 +16,59 @@
 
 <p align="center"><sub>Languages</sub></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-080808?style=for-the-badge&logo=javascript&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/TypeScript-080808?style=for-the-badge&logo=typescript&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/PHP-080808?style=for-the-badge&logo=php&logoColor=C8FF00" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0A14?style=for-the-badge&logo=javascript&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/TypeScript-0A0A14?style=for-the-badge&logo=typescript&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/PHP-0A0A14?style=for-the-badge&logo=php&logoColor=9D4EDD" />
 </p>
 
 <p align="center"><sub>Frontend</sub></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-080808?style=for-the-badge&logo=react&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/Next.js-080808?style=for-the-badge&logo=nextdotjs&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/HTML5-080808?style=for-the-badge&logo=html5&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/CSS3-080808?style=for-the-badge&logo=css3&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-080808?style=for-the-badge&logo=tailwindcss&logoColor=C8FF00" />
+  <img src="https://img.shields.io/badge/React-0A0A14?style=for-the-badge&logo=react&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/Next.js-0A0A14?style=for-the-badge&logo=nextdotjs&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/HTML5-0A0A14?style=for-the-badge&logo=html5&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/CSS3-0A0A14?style=for-the-badge&logo=css3&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A14?style=for-the-badge&logo=tailwindcss&logoColor=9D4EDD" />
 </p>
 
 <p align="center"><sub>Backend</sub></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Express.js-080808?style=for-the-badge&logo=express&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/Laravel-080808?style=for-the-badge&logo=laravel&logoColor=C8FF00" />
+  <img src="https://img.shields.io/badge/Express.js-0A0A14?style=for-the-badge&logo=express&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/Laravel-0A0A14?style=for-the-badge&logo=laravel&logoColor=9D4EDD" />
 </p>
 
 <p align="center"><sub>Database</sub></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-080808?style=for-the-badge&logo=mysql&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/PostgreSQL-080808?style=for-the-badge&logo=postgresql&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/SQLite-080808?style=for-the-badge&logo=sqlite&logoColor=C8FF00" />
+  <img src="https://img.shields.io/badge/MySQL-0A0A14?style=for-the-badge&logo=mysql&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0A14?style=for-the-badge&logo=postgresql&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/SQLite-0A0A14?style=for-the-badge&logo=sqlite&logoColor=9D4EDD" />
 </p>
 
 <p align="center"><sub>DevOps & Cloud</sub></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-080808?style=for-the-badge&logo=docker&logoColor=C8FF00" />
+  <img src="https://img.shields.io/badge/Docker-0A0A14?style=for-the-badge&logo=docker&logoColor=9D4EDD" />
 </p>
 
 <p align="center"><sub>Tools</sub></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-080808?style=for-the-badge&logo=git&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/VS_Code-080808?style=for-the-badge&logo=visualstudiocode&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/Figma-080808?style=for-the-badge&logo=figma&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/Postman-080808?style=for-the-badge&logo=postman&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/Webpack-080808?style=for-the-badge&logo=webpack&logoColor=C8FF00" />
-  <img src="https://img.shields.io/badge/Vite-080808?style=for-the-badge&logo=vite&logoColor=C8FF00" />
+  <img src="https://img.shields.io/badge/Git-0A0A14?style=for-the-badge&logo=git&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/VS_Code-0A0A14?style=for-the-badge&logo=visualstudiocode&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/Figma-0A0A14?style=for-the-badge&logo=figma&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/Postman-0A0A14?style=for-the-badge&logo=postman&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/Webpack-0A0A14?style=for-the-badge&logo=webpack&logoColor=9D4EDD" />
+  <img src="https://img.shields.io/badge/Vite-0A0A14?style=for-the-badge&logo=vite&logoColor=9D4EDD" />
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C8FF00&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD&height=3" width="100%"/>
 
 </div>
 
 <h2 align="center">📊 GitHub Stats & Trophies</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davarz&cache_seconds=7200&layout=compact&hide_border=true&bg_color=080808&title_color=C8FF00&icon_color=C8FF00&text_color=FFFFFF" alt="davarz's GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=davarz&hide_border=true&background=080808&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF87" alt="davarz's GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davarz&cache_seconds=7200&layout=compact&hide_border=true&bg_color=0A0A14&title_color=9D4EDD&icon_color=C77DFF&text_color=FFFFFF" alt="davarz's GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=davarz&hide_border=true&background=0A0A14&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF87" alt="davarz's GitHub Streak" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davarz&langs_count=8&layout=compact&hide_border=true&bg_color=080808&title_color=C8FF00&text_color=FFFFFF" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davarz&langs_count=8&layout=compact&hide_border=true&bg_color=0A0A14&title_color=9D4EDD&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C8FF00&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD&height=3" width="100%"/>
 
 </div>
 
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://guns.lol/davaarz_">
-    <img src="https://img.shields.io/badge/Website-C8FF00?style=for-the-badge&logoColor=000000&color=C8FF00" />
+    <img src="https://img.shields.io/badge/Website-9D4EDD?style=for-the-badge&logoColor=white&color=9D4EDD" />
   </a>
 </p>
 
