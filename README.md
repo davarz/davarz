@@ -45,8 +45,6 @@ Backend & Web Developer who also spends part of the week teaching — so I've sp
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,php,laravel,python,mysql,postgres,docker,git,linux,vscode,postman,html,css,react&theme=light" alt="Tech stack icons" />
 </div>
 
-> Ganti daftar `i=` di atas sesuai stack kamu — daftar lengkap ikon ada di [skillicons.dev](https://skillicons.dev).
-
 <br>
 
 ### 📊 GitHub Stats
